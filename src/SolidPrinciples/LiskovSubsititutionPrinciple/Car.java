@@ -1,4 +1,4 @@
-package LiskovSubsititutionPrinciple;
+package SolidPrinciples.LiskovSubsititutionPrinciple;
 
 public class Car extends Vehicle{
     public void changeGear(Gear gear) {

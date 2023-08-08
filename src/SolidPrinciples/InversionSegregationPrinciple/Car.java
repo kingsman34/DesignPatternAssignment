@@ -1,4 +1,4 @@
-package InversionSegregationPrinciple;
+package SolidPrinciples.InversionSegregationPrinciple;
 
 public class Car extends Vehicle implements RadioSwitch{
     private boolean radioOn;

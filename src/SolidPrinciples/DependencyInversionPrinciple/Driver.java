@@ -1,4 +1,4 @@
-package DependencyInversionPrinciple;
+package SolidPrinciples.DependencyInversionPrinciple;
 
 public class Driver {
     private Vehicle vehicle;

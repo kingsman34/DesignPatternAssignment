@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package SolidPrinciples.SingleResponsibilityPrinciple;
 
 public class FuelPump {
     public void reFuel(final Vehicle vehicle){

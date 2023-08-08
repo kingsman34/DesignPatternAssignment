@@ -1,4 +1,4 @@
-package InversionSegregationPrinciple;
+package SolidPrinciples.InversionSegregationPrinciple;
 
 public interface EngineSwitch {
     void startEngine();

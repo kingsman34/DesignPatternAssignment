@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package SolidPrinciples.OpenClosedPrinciple;
 
 public class EventHandler {
     private Vehicle vehicle;

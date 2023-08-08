@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package SolidPrinciples.OpenClosedPrinciple;
 
 public class Sport implements DrivingMode{
     private static final int POWER = 500;

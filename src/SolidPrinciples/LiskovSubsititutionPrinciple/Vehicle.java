@@ -1,4 +1,4 @@
-package LiskovSubsititutionPrinciple;
+package SolidPrinciples.LiskovSubsititutionPrinciple;
 
 public class Vehicle {
     private boolean isMoving;

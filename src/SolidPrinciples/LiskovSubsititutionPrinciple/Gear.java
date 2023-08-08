@@ -1,4 +1,4 @@
-package LiskovSubsititutionPrinciple;
+package SolidPrinciples.LiskovSubsititutionPrinciple;
 
 public enum Gear {
     P, // Parking

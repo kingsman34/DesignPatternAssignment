@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package SolidPrinciples.SingleResponsibilityPrinciple;
 
 public class Vehicle {
     private final int maxFuel;

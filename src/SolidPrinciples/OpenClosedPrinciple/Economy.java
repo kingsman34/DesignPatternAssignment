@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package SolidPrinciples.OpenClosedPrinciple;
 
 public class Economy implements DrivingMode{
     private static final int POWER = 300;

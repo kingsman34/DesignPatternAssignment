@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package SolidPrinciples.OpenClosedPrinciple;
 
 public interface DrivingMode {
     int getPower();

@@ -1,6 +1,6 @@
-package InversionSegregationPrinciple;
+package SolidPrinciples.InversionSegregationPrinciple;
 
-import LiskovSubsititutionPrinciple.Vehicle;
+import SolidPrinciples.LiskovSubsititutionPrinciple.Vehicle;
 
 public class Drone extends Vehicle implements CameraSwitch {
     private boolean cameraOn;

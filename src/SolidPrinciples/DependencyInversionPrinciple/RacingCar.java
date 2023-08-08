@@ -1,4 +1,4 @@
-package DependencyInversionPrinciple;
+package SolidPrinciples.DependencyInversionPrinciple;
 
 public class RacingCar implements Vehicle{
     private final int maxFuel;

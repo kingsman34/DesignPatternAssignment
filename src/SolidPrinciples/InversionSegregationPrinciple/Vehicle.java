@@ -1,4 +1,4 @@
-package InversionSegregationPrinciple;
+package SolidPrinciples.InversionSegregationPrinciple;
 
 public abstract class Vehicle implements EngineSwitch{
     private boolean engineRunning;
